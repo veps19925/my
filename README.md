@@ -1,2 +1,2 @@
-secret_code D7nZYjw
-github veps19925
+secret_code=D7nZYjw
+github=veps19925
